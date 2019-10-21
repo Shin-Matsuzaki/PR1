@@ -1,5 +1,5 @@
 # GitHub Practice 1
-初期手順
+## 初期手順
 ```bash
 mkdir **; cd **
 git init
@@ -10,8 +10,14 @@ git remote add origin (SSH key)
 git push -u origin master
 ```
 
-その他
+その他コマンド
 ```buildoutcfg
 git status
-git log
+git log --oneline
 ```
+home直下の.gitconfigからエイリアス編集してショトカ登録
+
+## Pull Request手順
+GitHubの子のリポジトリで「Compare ＆ pull request」選択
+親のリポジトリでmergeする  
+→いらないbranchは消す「Delete Branch」
