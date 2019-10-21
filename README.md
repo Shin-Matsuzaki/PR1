@@ -22,3 +22,4 @@ GitHubの子のリポジトリで「Compare ＆ pull request」選択
 親のリポジトリでmergeする  
 →いらないbranchは消す「Delete Branch」
 大山がお邪魔します。
+大山が再びお邪魔します。
