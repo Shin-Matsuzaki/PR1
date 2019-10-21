@@ -21,3 +21,4 @@ home直下の.gitconfigからエイリアス編集してショトカ登録
 GitHubの子のリポジトリで「Compare ＆ pull request」選択
 親のリポジトリでmergeする  
 →いらないbranchは消す「Delete Branch」
+大山がお邪魔します。
