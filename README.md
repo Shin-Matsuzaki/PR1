@@ -10,8 +10,17 @@ git remote add origin (SSH key)
 git push -u origin master
 ```
 
+ブランチの切り方
+```bash
+git checkout -b **
+git branch
+git add **
+git commit -m 'Add: **'
+git push origin **
+```
+
 その他コマンド
-```buildoutcfg
+```bash
 git status
 git log --oneline
 ```
